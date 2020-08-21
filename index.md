@@ -8,28 +8,30 @@
 - 所在地（県や市まででOK）
 - 得意領域（Web開発、サーバー運用など）
 
-# 見出し1
-## 見出し2
-## 見出し3
-本文です
+# Skills
+使ったことや興味のある言語、ツール、OSなどを具体的に書きましょう。
+- OS（Windows,Ubuntuなど）
+- Languages（JavaScriptなど）
+- Engine,Frameworks (Node.js, Expressなど)
+- Tool,MiddleWare（Git, PostgreSQLなど）
+- 資格、免許（情報処理技術者、LPICなど）
 
-改行されない文章です
-改行されない文章です
+# Works
+アピールできる活動内容を書きましょう。
+- [GitHub](GitHubのURL)
+- [Qiita](QiitaのURL)
+- 作った作品
+  - [作品1](作品1のURL)
+  - [作品2](作品2のURL)
 
-改行された文章です  
-改行された文章です  
+# Contact
+連絡先を書きましょう。
+- [Twitter](TwitterプロフィールのURL)
+- [LinkedIn](LinkedInプロフィールのURL)
+- [Mail](mailto:メールアドレス)
 
-段落です
-
-[リンクです](https://www.google.co.jp)
-
-順序なしリスト
-- 要素1
-- 要素2
-- 要素3
-
-順序付きリスト
-1. 要素1
-1. 要素2
-1. 要素3
-
+# History
+学歴、職歴、アルバイト、インターン経験など。
+- 2019年 [株式会社xx](URL) 入社
+- 2018年 xx学園 [xx高等学校](URL) 卒業
+- 表彰、受賞歴、メディア掲載記事などあれば
