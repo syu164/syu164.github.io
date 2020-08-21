@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/syu164/syu164.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About
+簡単な自己紹介やアピール。
+どんなことができる、したいのか。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Profile
+- 名前（ハンドルネームも可）
+- 所在地（県や市まででOK）
+- 得意領域（Web開発、サーバー運用など）
 
-### Markdown
+# 見出し1
+## 見出し2
+## 見出し3
+本文です
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+改行されない文章です
+改行されない文章です
 
-```markdown
-Syntax highlighted code block
+改行された文章です 
+改行された文章です  
 
-# Header 1
-## Header 2
-### Header 3
+段落です
 
-- Bulleted
-- List
+リンクです(https://nnn.ed.nico)
 
-1. Numbered
-2. List
+順序なしリスト
+- 要素1
+- 要素2
+- 要素3
 
-**Bold** and _Italic_ and `Code` text
+順序付きリスト
+1. 要素1
+1. 要素2
+1. 要素3
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/syu164/syu164.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
