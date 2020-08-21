@@ -21,7 +21,7 @@
 
 段落です
 
-リンクです(https://nnn.ed.nico)
+リンクです(https://www.google.co.jp)
 
 順序なしリスト
 - 要素1
